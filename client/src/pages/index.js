@@ -36,7 +36,7 @@ function SignInButton() {
             }}
           >
             <Container maxWidth="sm">
-              <h2>Welcome to the AutoBell portal.</h2>
+              <h2>Welcome to the Azure Dash portal.</h2>
               <p>Please Sign In</p>
               <SignInButton />
             </Container>

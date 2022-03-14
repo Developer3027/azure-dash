@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const ticketSchema = mongoose.Schema({
   id: {
     type: String,
-    required: [true, "AutoBell tracking ID"]
+    required: [true, "Tracking ID"]
   },
   city: {
     type: String,

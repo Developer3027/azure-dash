@@ -1,5 +1,5 @@
 {
-  "name": "autobell-dash",
+  "name": "azure-dash",
   "version": "1.0.0",
   "description": "API for ticket info for dashboard",
   "main": "index.js",
