@@ -8,7 +8,7 @@ import { DashboardLayout } from "../components/dashboard-layout";
 const Tickets = ({ tickets }) => (
   <>
     <Head>
-      <title>Tickets | AutoBell Sales</title>
+      <title>Tickets | Shop Sales</title>
     </Head>
     <Box
       component="main"
